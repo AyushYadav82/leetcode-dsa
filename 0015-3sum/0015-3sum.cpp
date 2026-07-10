@@ -4,7 +4,7 @@ public:
         int n=nums.size();
         //two pointer approach
         vector<vector<int>> ans;
-        sort(nums.begin(),nums.end());                   
+        sort(nums.begin(),nums.end());        //sorted so that the repeated answers do not repeat           
         for(int i=0;i<n;i++){
             if(i>0 && nums[i]==nums[i-1]) continue;       //so that the value do not repeat
             int j=i+1,k=n-1;
