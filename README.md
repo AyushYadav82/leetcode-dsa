@@ -7,11 +7,13 @@ daily leetcode soln
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0055-jump-game) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0055-jump-game) |
 ## Greedy
 |  |
@@ -29,4 +31,8 @@ daily leetcode soln
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
