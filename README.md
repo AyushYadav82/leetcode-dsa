@@ -46,8 +46,13 @@ daily leetcode soln
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0633-sum-of-square-numbers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0633-sum-of-square-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
