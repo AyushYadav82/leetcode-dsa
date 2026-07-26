@@ -6,6 +6,7 @@ daily leetcode soln
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0053-maximum-subarray) |
@@ -39,6 +40,7 @@ daily leetcode soln
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0001-two-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1331-rank-transform-of-an-array) |
 ## Divide and Conquer
