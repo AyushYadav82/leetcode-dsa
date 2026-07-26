@@ -45,6 +45,7 @@ daily leetcode soln
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1331-rank-transform-of-an-array) |
 ## Divide and Conquer
@@ -56,6 +57,7 @@ daily leetcode soln
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0633-sum-of-square-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3536-maximum-product-of-two-digits) |
@@ -69,4 +71,8 @@ daily leetcode soln
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
