@@ -8,6 +8,7 @@ daily leetcode soln
 | ------- |
 | [0001-two-sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0053-maximum-subarray) |
@@ -23,10 +24,12 @@ daily leetcode soln
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0055-jump-game) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0016-3sum-closest) |
 | [0633-sum-of-square-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0633-sum-of-square-numbers) |
