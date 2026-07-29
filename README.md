@@ -14,6 +14,7 @@ daily leetcode soln
 | [0016-3sum-closest](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -40,6 +41,7 @@ daily leetcode soln
 | ------- |
 | [0015-3sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
