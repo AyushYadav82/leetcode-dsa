@@ -31,6 +31,7 @@ daily leetcode soln
 | [0011-container-with-most-water](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0055-jump-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ daily leetcode soln
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
@@ -57,6 +59,7 @@ daily leetcode soln
 | [0012-integer-to-roman](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1331-rank-transform-of-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,6 +91,7 @@ daily leetcode soln
 | [0012-integer-to-roman](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
@@ -100,5 +104,6 @@ daily leetcode soln
 ## Counting Sort
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
