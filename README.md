@@ -118,4 +118,12 @@ daily leetcode soln
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0877-stone-game) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
