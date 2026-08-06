@@ -76,6 +76,7 @@ daily leetcode soln
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0189-rotate-array) |
@@ -124,11 +125,13 @@ daily leetcode soln
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 ## Enumeration
 |  |
