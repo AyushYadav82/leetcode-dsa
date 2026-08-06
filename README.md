@@ -80,6 +80,7 @@ daily leetcode soln
 | [0009-palindrome-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0877-stone-game) |
@@ -133,6 +134,7 @@ daily leetcode soln
 | ------- |
 | [0002-add-two-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0326-power-of-three) |
 ## Enumeration
 |  |
 | ------- |
