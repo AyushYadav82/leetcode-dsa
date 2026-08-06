@@ -45,6 +45,7 @@ daily leetcode soln
 | [0016-3sum-closest](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0016-3sum-closest) |
 | [0189-rotate-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0633-sum-of-square-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -124,6 +125,7 @@ daily leetcode soln
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
