@@ -82,6 +82,7 @@ daily leetcode soln
 | [0633-sum-of-square-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
@@ -127,4 +128,8 @@ daily leetcode soln
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0206-reverse-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
