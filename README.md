@@ -12,6 +12,7 @@ daily leetcode soln
 | [0014-longest-common-prefix](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0056-merge-intervals) |
@@ -43,6 +44,7 @@ daily leetcode soln
 | [0011-container-with-most-water](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0018-4sum) |
 | [0189-rotate-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
@@ -51,6 +53,7 @@ daily leetcode soln
 | ------- |
 | [0015-3sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1331-rank-transform-of-an-array) |
