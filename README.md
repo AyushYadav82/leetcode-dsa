@@ -48,6 +48,7 @@ daily leetcode soln
 | [0016-3sum-closest](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
@@ -71,6 +72,7 @@ daily leetcode soln
 | [0001-two-sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -139,6 +141,7 @@ daily leetcode soln
 | [0002-add-two-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -160,4 +163,5 @@ daily leetcode soln
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
