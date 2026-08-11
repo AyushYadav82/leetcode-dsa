@@ -27,6 +27,7 @@ daily leetcode soln
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1672-richest-customer-wealth) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3708-longest-fibonacci-subarray](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3708-longest-fibonacci-subarray) |
 | [3731-find-missing-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3731-find-missing-elements) |
