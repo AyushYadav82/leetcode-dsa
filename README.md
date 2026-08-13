@@ -41,6 +41,7 @@ daily leetcode soln
 | [0053-maximum-subarray](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0055-jump-game) |
 | [0877-stone-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
 | ------- |
@@ -107,6 +108,7 @@ daily leetcode soln
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -149,6 +151,7 @@ daily leetcode soln
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1025-divisor-game) |
 ## Linked List
 |  |
 | ------- |
@@ -198,4 +201,12 @@ daily leetcode soln
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0342-power-of-four) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
