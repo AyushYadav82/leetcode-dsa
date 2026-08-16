@@ -32,6 +32,7 @@ daily leetcode soln
 | [1672-richest-customer-wealth](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1929-concatenation-of-array) |
+| [2029-stone-game-ix](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3708-longest-fibonacci-subarray](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3708-longest-fibonacci-subarray) |
@@ -48,6 +49,7 @@ daily leetcode soln
 | ------- |
 | [0011-container-with-most-water](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0055-jump-game) |
+| [2029-stone-game-ix](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
@@ -113,6 +115,7 @@ daily leetcode soln
 | [0877-stone-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2029-stone-game-ix](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3536-maximum-product-of-two-digits) |
@@ -149,6 +152,7 @@ daily leetcode soln
 ## Counting Sort
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
@@ -156,6 +160,7 @@ daily leetcode soln
 | ------- |
 | [0877-stone-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1025-divisor-game) |
+| [2029-stone-game-ix](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2029-stone-game-ix) |
 ## Linked List
 |  |
 | ------- |
@@ -226,4 +231,16 @@ daily leetcode soln
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
