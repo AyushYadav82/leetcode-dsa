@@ -35,6 +35,7 @@ daily leetcode soln
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2029-stone-game-ix) |
@@ -102,6 +103,7 @@ daily leetcode soln
 | [0229-majority-element-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1331-rank-transform-of-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1748-sum-of-unique-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -171,6 +173,7 @@ daily leetcode soln
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0229-majority-element-ii) |
+| [1748-sum-of-unique-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1748-sum-of-unique-elements) |
 | [2029-stone-game-ix](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
