@@ -14,6 +14,7 @@ daily leetcode soln
 | [0016-3sum-closest](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0055-jump-game) |
@@ -48,6 +49,7 @@ daily leetcode soln
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0055-jump-game) |
 | [0877-stone-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0877-stone-game) |
@@ -56,6 +58,7 @@ daily leetcode soln
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0055-jump-game) |
 | [1927-sum-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2029-stone-game-ix) |
