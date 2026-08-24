@@ -162,6 +162,7 @@ daily leetcode soln
 | [0014-longest-common-prefix](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0520-detect-capital](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0520-detect-capital) |
+| [0709-to-lower-case](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0709-to-lower-case) |
 | [1927-sum-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
