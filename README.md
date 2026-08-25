@@ -46,6 +46,7 @@ daily leetcode soln
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3708-longest-fibonacci-subarray](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3708-longest-fibonacci-subarray) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -114,6 +115,7 @@ daily leetcode soln
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
