@@ -22,6 +22,7 @@ daily leetcode soln
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
@@ -254,6 +255,7 @@ daily leetcode soln
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0342-power-of-four) |
 ## Brainteaser
 |  |
