@@ -130,6 +130,7 @@ daily leetcode soln
 | [0009-palindrome-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0326-power-of-three) |
@@ -152,6 +153,7 @@ daily leetcode soln
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0633-sum-of-square-numbers) |
 ## Number Theory
@@ -309,4 +311,8 @@ daily leetcode soln
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0739-daily-temperatures) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
