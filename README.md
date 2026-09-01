@@ -151,6 +151,7 @@ daily leetcode soln
 | [1927-sum-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2029-stone-game-ix) |
 | [2169-count-operations-to-obtain-zero](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2169-count-operations-to-obtain-zero) |
+| [2469-convert-the-temperature](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
