@@ -5,7 +5,7 @@ public:
         while(nums1!=0 && nums2!=0){
             if(nums1>=nums2){
                 nums1=nums1-nums2;
-            }else if(nums2>=nums1){
+            }else {
                 nums2=nums2-nums1;
             }
             count++;
