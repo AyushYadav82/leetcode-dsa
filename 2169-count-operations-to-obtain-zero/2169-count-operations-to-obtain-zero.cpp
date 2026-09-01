@@ -1,12 +1,12 @@
 class Solution {
 public:
-    int countOperations(int nums1, int nums2) {
+    int countOperations(int num1, int num2) {
         int count=0;
-        while(nums1!=0 && nums2!=0){
-            if(nums1>=nums2){
-                nums1=nums1-nums2;
+        while(num1!=0 && num2!=0){
+            if(num1>=num2){
+                num1-=num2;
             }else {
-                nums2=nums2-nums1;
+                num2-=num1;
             }
             count++;
         }
