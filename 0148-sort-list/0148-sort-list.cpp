@@ -24,15 +24,11 @@ public:
             }
             curr=curr->next;
         }
-        while(a!=NULL){
+        if(a!=NULL){
             curr->next=a;
-            a=a->next;
-            curr=curr->next;
         }
-        while(b!=NULL){
+        if(b!=NULL){
             curr->next=b;
-            b=b->next;
-            curr=curr->next;
         }
         return dummy->next;
     }
