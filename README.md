@@ -87,6 +87,7 @@ daily leetcode soln
 | [0061-rotate-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0283-move-zeroes) |
@@ -100,6 +101,7 @@ daily leetcode soln
 | [0016-3sum-closest](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0881-boats-to-save-people) |
@@ -136,6 +138,7 @@ daily leetcode soln
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -231,6 +234,7 @@ daily leetcode soln
 | [0138-copy-list-with-random-pointer](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0237-delete-node-in-a-linked-list) |
@@ -343,4 +347,8 @@ daily leetcode soln
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0881-boats-to-save-people) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
