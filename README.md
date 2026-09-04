@@ -39,6 +39,7 @@ daily leetcode soln
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1672-richest-customer-wealth](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -323,6 +324,7 @@ daily leetcode soln
 | [0155-min-stack](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -339,6 +341,7 @@ daily leetcode soln
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Newton's Method
 |  |
 | ------- |
