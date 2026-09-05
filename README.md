@@ -28,6 +28,7 @@ daily leetcode soln
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0881-boats-to-save-people) |
 | [0941-valid-mountain-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0941-valid-mountain-array) |
@@ -180,6 +181,7 @@ daily leetcode soln
 | [0069-sqrtx](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0633-sum-of-square-numbers) |
+| [0875-koko-eating-bananas](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Number Theory
 |  |
