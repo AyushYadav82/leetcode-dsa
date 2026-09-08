@@ -43,6 +43,7 @@ daily leetcode soln
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1539-kth-missing-positive-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1748-sum-of-unique-elements) |
@@ -192,6 +193,7 @@ daily leetcode soln
 | [0633-sum-of-square-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0633-sum-of-square-numbers) |
 | [0875-koko-eating-bananas](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1539-kth-missing-positive-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1539-kth-missing-positive-number) |
 ## Number Theory
 |  |
 | ------- |
