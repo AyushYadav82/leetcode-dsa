@@ -171,6 +171,7 @@ daily leetcode soln
 | [0342-power-of-four](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0633-sum-of-square-numbers) |
+| [0836-rectangle-overlap](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -391,4 +392,8 @@ daily leetcode soln
 | [1732-find-the-highest-altitude](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3904-smallest-stable-index-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
