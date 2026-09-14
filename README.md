@@ -21,6 +21,7 @@ daily leetcode soln
 | [0056-merge-intervals](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0283-move-zeroes) |
@@ -136,6 +137,7 @@ daily leetcode soln
 | [0141-linked-list-cycle](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0160-intersection-of-two-linked-lists) |
+| [0219-contains-duplicate-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -296,6 +298,7 @@ daily leetcode soln
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0219-contains-duplicate-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
