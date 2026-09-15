@@ -25,6 +25,7 @@ daily leetcode soln
 | [0229-majority-element-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0682-baseball-game) |
@@ -119,6 +120,7 @@ daily leetcode soln
 | [0056-merge-intervals](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0870-advantage-shuffle](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0870-advantage-shuffle) |
@@ -143,6 +145,7 @@ daily leetcode soln
 | [0202-happy-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -160,6 +163,7 @@ daily leetcode soln
 | [0004-median-of-two-sorted-arrays](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -232,11 +236,13 @@ daily leetcode soln
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1748-sum-of-unique-elements) |
 | [2029-stone-game-ix](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2029-stone-game-ix) |
@@ -402,4 +408,12 @@ daily leetcode soln
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0836-rectangle-overlap) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
