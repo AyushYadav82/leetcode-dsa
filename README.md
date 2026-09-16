@@ -35,6 +35,7 @@ daily leetcode soln
 | [0875-koko-eating-bananas](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0941-valid-mountain-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -110,6 +111,7 @@ daily leetcode soln
 | [0870-advantage-shuffle](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0870-advantage-shuffle) |
 | [0876-middle-of-the-linked-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
@@ -125,6 +127,7 @@ daily leetcode soln
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0870-advantage-shuffle](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
