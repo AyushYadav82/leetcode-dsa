@@ -236,6 +236,7 @@ daily leetcode soln
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
+| [3498-reverse-degree-of-a-string](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
@@ -333,6 +334,7 @@ daily leetcode soln
 | [1929-concatenation-of-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2169-count-operations-to-obtain-zero) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
