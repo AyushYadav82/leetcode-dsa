@@ -50,6 +50,7 @@ daily leetcode soln
 | [1470-shuffle-the-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1539-kth-missing-positive-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1539-kth-missing-positive-number) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1748-sum-of-unique-elements) |
@@ -233,6 +234,7 @@ daily leetcode soln
 | [0520-detect-capital](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0844-backspace-string-compare) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1927-sum-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
