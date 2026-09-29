@@ -41,6 +41,7 @@ daily leetcode soln
 | [0941-valid-mountain-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0941-valid-mountain-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1250-check-if-it-is-a-good-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1250-check-if-it-is-a-good-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -192,6 +193,7 @@ daily leetcode soln
 | [0877-stone-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1025-divisor-game) |
+| [1250-check-if-it-is-a-good-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1250-check-if-it-is-a-good-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1927-sum-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2029-stone-game-ix) |
@@ -222,6 +224,7 @@ daily leetcode soln
 ## Number Theory
 |  |
 | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1250-check-if-it-is-a-good-array) |
 | [2413-smallest-even-multiple](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
@@ -449,4 +452,20 @@ daily leetcode soln
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1250-check-if-it-is-a-good-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1250-check-if-it-is-a-good-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
