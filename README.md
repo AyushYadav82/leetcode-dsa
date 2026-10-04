@@ -26,6 +26,7 @@ daily leetcode soln
 | [0219-contains-duplicate-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0260-single-number-iii) |
+| [0274-h-index](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -132,6 +133,7 @@ daily leetcode soln
 | [0148-sort-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
@@ -274,6 +276,7 @@ daily leetcode soln
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1748-sum-of-unique-elements) |
