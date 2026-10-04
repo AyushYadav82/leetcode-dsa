@@ -122,6 +122,7 @@ daily leetcode soln
 | [0905-sort-array-by-parity](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -211,6 +212,7 @@ daily leetcode soln
 | [1927-sum-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2029-stone-game-ix) |
 | [2169-count-operations-to-obtain-zero](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2169-count-operations-to-obtain-zero) |
+| [2396-strictly-palindromic-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -372,6 +374,7 @@ daily leetcode soln
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2396-strictly-palindromic-number) |
 ## Impartial Game
 |  |
 | ------- |
