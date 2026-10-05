@@ -256,6 +256,7 @@ daily leetcode soln
 | [0520-detect-capital](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1927-sum-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1927-sum-game) |
@@ -410,6 +411,7 @@ daily leetcode soln
 | [0682-baseball-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -418,6 +420,7 @@ daily leetcode soln
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
