@@ -65,6 +65,7 @@ daily leetcode soln
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2974-minimum-number-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
@@ -147,6 +148,7 @@ daily leetcode soln
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -278,6 +280,7 @@ daily leetcode soln
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2974-minimum-number-game) |
 ## Counting Sort
 |  |
 | ------- |
@@ -367,6 +370,7 @@ daily leetcode soln
 | [1929-concatenation-of-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2169-count-operations-to-obtain-zero) |
 | [2390-removing-stars-from-a-string](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
+| [2974-minimum-number-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
