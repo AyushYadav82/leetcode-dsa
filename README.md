@@ -14,6 +14,7 @@ daily leetcode soln
 | [0016-3sum-closest](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0049-group-anagrams) |
@@ -79,6 +80,7 @@ daily leetcode soln
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0055-jump-game) |
@@ -110,6 +112,7 @@ daily leetcode soln
 | [0018-4sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
@@ -422,6 +425,7 @@ daily leetcode soln
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
@@ -453,6 +457,7 @@ daily leetcode soln
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Newton's Method
