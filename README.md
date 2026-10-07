@@ -174,6 +174,7 @@ daily leetcode soln
 | [0229-majority-element-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -265,6 +266,7 @@ daily leetcode soln
 | [0049-group-anagrams](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0171-excel-sheet-column-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
@@ -298,6 +300,7 @@ daily leetcode soln
 | [0229-majority-element-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1748-sum-of-unique-elements) |
 | [2029-stone-game-ix](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2029-stone-game-ix) |
