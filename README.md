@@ -206,6 +206,7 @@ daily leetcode soln
 | [0326-power-of-three](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0836-rectangle-overlap) |
@@ -261,6 +262,7 @@ daily leetcode soln
 | [0049-group-anagrams](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0171-excel-sheet-column-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0709-to-lower-case) |
@@ -370,6 +372,7 @@ daily leetcode soln
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 | [1688-count-of-matches-in-tournament](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1688-count-of-matches-in-tournament) |
