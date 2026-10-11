@@ -14,6 +14,7 @@ daily leetcode soln
 | [0016-3sum-closest](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0048-rotate-image) |
@@ -170,6 +171,7 @@ daily leetcode soln
 | ------- |
 | [0001-two-sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0141-linked-list-cycle) |
