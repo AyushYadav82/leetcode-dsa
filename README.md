@@ -23,6 +23,7 @@ daily leetcode soln
 | [0055-jump-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0189-rotate-array) |
@@ -90,6 +91,7 @@ daily leetcode soln
 | [0053-maximum-subarray](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0119-pascals-triangle-ii) |
 | [0678-valid-parenthesis-string](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1025-divisor-game) |
