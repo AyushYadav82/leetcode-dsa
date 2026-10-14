@@ -114,6 +114,7 @@ daily leetcode soln
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
@@ -254,6 +255,7 @@ daily leetcode soln
 | [3536-maximum-product-of-two-digits](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3876-construct-uniform-parity-array-ii) |
