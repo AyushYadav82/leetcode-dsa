@@ -75,6 +75,7 @@ daily leetcode soln
 | [2974-minimum-number-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3285-find-indices-of-stable-mountains](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3285-find-indices-of-stable-mountains) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3708-longest-fibonacci-subarray](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3708-longest-fibonacci-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3718-smallest-missing-multiple-of-k) |
