@@ -67,6 +67,7 @@ daily leetcode soln
 | [1920-build-array-from-permutation](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -172,6 +173,7 @@ daily leetcode soln
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2974-minimum-number-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -279,6 +281,7 @@ daily leetcode soln
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Number Theory
 |  |
 | ------- |
