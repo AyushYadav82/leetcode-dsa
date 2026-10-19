@@ -257,6 +257,7 @@ daily leetcode soln
 | [2413-smallest-even-multiple](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2544-alternating-digit-sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2544-alternating-digit-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
