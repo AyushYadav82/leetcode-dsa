@@ -250,6 +250,7 @@ daily leetcode soln
 | [1927-sum-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2029-stone-game-ix) |
 | [2169-count-operations-to-obtain-zero](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2169-count-operations-to-obtain-zero) |
+| [2235-add-two-integers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2469-convert-the-temperature) |
