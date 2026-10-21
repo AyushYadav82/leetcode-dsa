@@ -37,6 +37,7 @@ daily leetcode soln
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -425,6 +426,7 @@ daily leetcode soln
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
