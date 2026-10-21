@@ -7,7 +7,7 @@ public:
         }
         reverse(temp.begin(),temp.end());
         string ans="";
-        ans=temp;
+        ans+=temp;
         for(int i=k;i<s.size();i++){
             ans+=s[i];
         }
