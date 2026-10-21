@@ -46,6 +46,7 @@ daily leetcode soln
 | [0881-boats-to-save-people](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0941-valid-mountain-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -145,6 +146,7 @@ daily leetcode soln
 | [0876-middle-of-the-linked-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2396-strictly-palindromic-number) |
@@ -172,6 +174,7 @@ daily leetcode soln
 | [0881-boats-to-save-people](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
