@@ -149,6 +149,7 @@ daily leetcode soln
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2396-strictly-palindromic-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [3794-reverse-string-prefix](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -323,6 +324,7 @@ daily leetcode soln
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3498-reverse-degree-of-a-string](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3794-reverse-string-prefix](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3794-reverse-string-prefix) |
 ## Trie
 |  |
 | ------- |
