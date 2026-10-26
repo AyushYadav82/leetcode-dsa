@@ -27,6 +27,7 @@ daily leetcode soln
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0260-single-number-iii) |
@@ -243,6 +244,7 @@ daily leetcode soln
 | [0171-excel-sheet-column-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0342-power-of-four) |
@@ -297,6 +299,7 @@ daily leetcode soln
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0258-add-digits) |
 | [1250-check-if-it-is-a-good-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1250-check-if-it-is-a-good-array) |
 | [2413-smallest-even-multiple](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2413-smallest-even-multiple) |
@@ -409,6 +412,7 @@ daily leetcode soln
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
@@ -605,4 +609,16 @@ daily leetcode soln
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0912-sort-an-array) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
