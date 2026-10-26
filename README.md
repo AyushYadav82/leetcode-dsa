@@ -257,6 +257,7 @@ daily leetcode soln
 | [1025-divisor-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1025-divisor-game) |
 | [1250-check-if-it-is-a-good-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1250-check-if-it-is-a-good-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1518-water-bottles](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1927-sum-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1927-sum-game) |
@@ -442,6 +443,7 @@ daily leetcode soln
 | [0415-add-strings](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0844-backspace-string-compare) |
+| [1518-water-bottles](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1929-concatenation-of-array) |
