@@ -36,6 +36,7 @@ daily leetcode soln
 | [0347-top-k-frequent-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0506-relative-ranks](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
@@ -255,6 +256,7 @@ daily leetcode soln
 | [0371-sum-of-two-integers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0836-rectangle-overlap) |
