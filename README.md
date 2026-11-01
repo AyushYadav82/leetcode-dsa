@@ -81,6 +81,7 @@ daily leetcode soln
 | [2974-minimum-number-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3285-find-indices-of-stable-mountains](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3285-find-indices-of-stable-mountains) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -277,6 +278,7 @@ daily leetcode soln
 | [2651-calculate-delayed-arrival-time](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
