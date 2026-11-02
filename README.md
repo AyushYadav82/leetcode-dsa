@@ -146,6 +146,7 @@ daily leetcode soln
 | [0189-rotate-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0283-move-zeroes) |
+| [0541-reverse-string-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 | [0870-advantage-shuffle](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0870-advantage-shuffle) |
@@ -329,6 +330,7 @@ daily leetcode soln
 | [0415-add-strings](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0767-reorganize-string) |
