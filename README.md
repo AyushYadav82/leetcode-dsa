@@ -91,6 +91,7 @@ daily leetcode soln
 | [3718-smallest-missing-multiple-of-k](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3731-find-missing-elements) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -128,6 +129,7 @@ daily leetcode soln
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -198,6 +200,7 @@ daily leetcode soln
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3731-find-missing-elements) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Hash Table
 |  |
 | ------- |
@@ -291,6 +294,7 @@ daily leetcode soln
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3875-construct-uniform-parity-array-i) |
