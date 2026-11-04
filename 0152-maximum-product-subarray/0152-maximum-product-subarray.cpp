@@ -19,3 +19,26 @@ public:
         return ans;
     }
 };
+
+
+#pragma GCC optimize("Ofast")
+
+#include <bits/stdc++.h>
+using namespace std;
+
+static constexpr size_t mxal = alignof(max_align_t);
+alignas(mxal) static unsigned char buf[64 * 1024 * 1024];
+static size_t pos = 0;
+
+void* operator new(size_t sz) {
+    size_t pad = (mxal - (pos % mxal)) % mxal;
+    pos += pad + sz;
+    return (void*)(&buf[pos - sz]);
+}
+
+void* operator new[](size_t sz) { return operator new(sz); }
+
+void operator delete(void*) noexcept {}
+void operator delete[](void*) noexcept {}
+void operator delete(void*, size_t) noexcept {}
+void operator delete[](void*, size_t) noexcept {}
