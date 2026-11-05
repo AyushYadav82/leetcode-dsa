@@ -9,7 +9,6 @@ public:
                     valid=false;
                     break;
                 }
-                
             }
             if(valid) ans++;
         }
