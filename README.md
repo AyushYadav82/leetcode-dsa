@@ -151,6 +151,7 @@ daily leetcode soln
 | [0189-rotate-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0844-backspace-string-compare) |
@@ -333,6 +334,7 @@ daily leetcode soln
 | [0049-group-anagrams](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0171-excel-sheet-column-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0415-add-strings) |
