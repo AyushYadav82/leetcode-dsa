@@ -29,6 +29,7 @@ daily leetcode soln
 | [0152-maximum-product-subarray](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0229-majority-element-ii) |
@@ -110,6 +111,7 @@ daily leetcode soln
 | [0118-pascals-triangle](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0198-house-robber) |
 | [0678-valid-parenthesis-string](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1025-divisor-game) |
