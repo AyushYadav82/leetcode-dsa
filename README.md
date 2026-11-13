@@ -24,6 +24,7 @@ daily leetcode soln
 | [0056-merge-intervals](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -211,6 +212,7 @@ daily leetcode soln
 | [0012-integer-to-roman](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
@@ -643,4 +645,8 @@ daily leetcode soln
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0204-count-primes) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
