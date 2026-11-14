@@ -256,6 +256,7 @@ daily leetcode soln
 | [0002-add-two-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0069-sqrtx) |
@@ -335,6 +336,7 @@ daily leetcode soln
 | [0014-longest-common-prefix](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0171-excel-sheet-column-number](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0242-valid-anagram) |
@@ -468,6 +470,7 @@ daily leetcode soln
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0415-add-strings) |
