@@ -57,6 +57,7 @@ daily leetcode soln
 | [0941-valid-mountain-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0941-valid-mountain-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1046-last-stone-weight) |
 | [1250-check-if-it-is-a-good-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1250-check-if-it-is-a-good-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -376,6 +377,7 @@ daily leetcode soln
 | [0506-relative-ranks](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0506-relative-ranks) |
 | [0767-reorganize-string](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2974-minimum-number-game) |
 ## Counting Sort
