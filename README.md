@@ -92,6 +92,7 @@ daily leetcode soln
 | [3285-find-indices-of-stable-mountains](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3285-find-indices-of-stable-mountains) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3708-longest-fibonacci-subarray](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3708-longest-fibonacci-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -243,6 +244,7 @@ daily leetcode soln
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AyushYadav82/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
