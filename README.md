@@ -367,6 +367,7 @@ daily leetcode soln
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1927-sum-game](https://github.com/AyushYadav82/leetcode-dsa/tree/master/1927-sum-game) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AyushYadav82/leetcode-dsa/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
